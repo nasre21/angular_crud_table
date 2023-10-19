@@ -6,5 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./footer-general.component.scss']
 })
 export class FooterGeneralComponent {
+  
 
 }
